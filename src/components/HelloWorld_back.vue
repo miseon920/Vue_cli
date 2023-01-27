@@ -31,11 +31,16 @@
 </template>
 
 <script>
+
+// const appContent = {
+//   props : ['propsdata']
+// } 이부분을 아래의 props로 적은것
+
 export default {
   name: 'HelloWorld',
   props: {
     msg: String
-  }
+  } // props:['masg'] 와 같음
 }
 </script>
 

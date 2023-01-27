@@ -69,4 +69,4 @@ vue create '프로젝트 폴더위치'
 
 4.cd vue-cli
 
-5.npm run serve
+5.npm run serve / 프로젝트 실행
